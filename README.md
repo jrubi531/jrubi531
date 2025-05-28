@@ -1,7 +1,7 @@
 ### Hello World. I'm Rubi Soto 👋.
 ---
 <p>
-  <img src="imagen1.gif" align="right" width="20%"/>
+  <img src="imagen1.gif" align="right" width="25%"/>
 
   <samp>
     <br>Estoy estudiando para ser desarrollador web y también creo contenido digital.
