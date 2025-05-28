@@ -1,7 +1,7 @@
 ### Hello World. I'm Rubi Soto 👋.
 ---
 <p>
-  <img src="![image](https://github.com/user-attachments/assets/9c51f1ed-55b1-4cf9-8a22-13fe3bd07128)
+  <img src="72817b0bbee04a16994076ba839abe7501de5f47r1-500-400_hq-1055056970.gif
 " align="right" width="15%"/>
 
   <samp>
