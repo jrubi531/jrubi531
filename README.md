@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hello World. I'm Rubi Soto 👋.
+---
+<p>
+  <img src="./ico.gif" align="right" width="15%"/>"
+  <samp>
+    <br>Soy un desarrollador Web y creador de contenidos digitales.
+    <br>
+    <br>🔹 Actualmente estoy aprendiendo REACT
+    <br>🔹 Programación en python con raspberry pi pico W
+    <br>🔹 Me interesa el desarrollo de aplicaciones web.
+    </samp>
+   <br>
+  <br>
+  <p align="center">
+    <samp>
+      #html, #css, #javascript, #git, #react, #python, #Java SE, #SQL, #Bash, #linux
+     </samp>
+    <br>
+  </p>
+  
+</p>
 
-<!--
-**jrubi531/jrubi531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
